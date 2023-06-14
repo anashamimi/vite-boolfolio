@@ -6,6 +6,12 @@ $fa-font-path: "../webfonts";
 
 @import "bootstrap/scss/bootstrap";
 
+.active-link{
+    color: blue;
+}
+
+
+
 body {
     width: 100%;
     height: 100%;
